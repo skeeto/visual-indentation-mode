@@ -1,6 +1,6 @@
 # Emacs visual-indentation-mode
 
-This minor mode highlighting indentation. It looks like this,
+This minor mode highlights indentation. It looks like this,
 
 ### Lisp
 
